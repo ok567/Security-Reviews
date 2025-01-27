@@ -19,13 +19,13 @@ Custom test development using Foundry
 Comprehensive risk assessment and classification
 
 # Tools & Technologies
-Static Analysis
+## Static Analysis
 
 Slither
 Mythril
 Manticore
 
-# Dynamic Analysis
+## Dynamic Analysis
 
 Echidna
 Custom Foundry test suites
