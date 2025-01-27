@@ -22,10 +22,10 @@ Comprehensive risk assessment and classification
 ## Static Analysis
 
 Slither <br/>
-Mythril
+Mythril <br/>
 Manticore
 
 ## Dynamic Analysis
 
-Echidna
+Echidna <br/>
 Custom Foundry test suites
