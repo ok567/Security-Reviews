@@ -21,7 +21,7 @@ Comprehensive risk assessment and classification
 # Tools & Technologies
 ## Static Analysis
 
-Slither
+Slither <br/>
 Mythril
 Manticore
 
