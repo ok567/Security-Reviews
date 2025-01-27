@@ -7,26 +7,26 @@ As a security researcher, I specialize in conducting thorough security audits of
 ## Key Findings
 Notable vulnerabilities discovered include:
 
-Cross-contract reentrancy vulnerabilities in liquidity pool implementations <br/>
-Precision loss issues in fixed-point arithmetic calculations <br/>
-Privilege escalation vectors through delegatecall misuse
+- Cross-contract reentrancy vulnerabilities in liquidity pool implementations <br/>
+- Precision loss issues in fixed-point arithmetic calculations <br/>
+- Privilege escalation vectors through delegatecall misuse
 
 ## Methodology
 Each audit follows industry-standard security assessment methodologies, incorporating:
 
-Manual code review and Vulnerability analysis <br/>
-Automated vulnerability scanning using industry-leading tools <br/>
-Custom test development using Foundry <br/>
-Comprehensive risk assessment and classification
+- Manual code review and Vulnerability analysis <br/>
+- Automated vulnerability scanning using industry-leading tools <br/>
+- Custom test development using Foundry <br/>
+- Comprehensive risk assessment and classification
 
 ## Tools & Technologies
 ### Static Analysis
 
-Slither <br/>
-Mythril <br/>
-Manticore
+- Slither <br/>
+- Mythril <br/>
+- Manticore
 
 ### Dynamic Analysis
 
-Echidna <br/>
-Custom Foundry test suites
+- Echidna <br/>
+- Custom Foundry test suites
