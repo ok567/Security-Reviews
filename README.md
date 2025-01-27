@@ -13,7 +13,7 @@ Privilege escalation vectors through delegatecall misuse
 # Methodology
 Each audit follows industry-standard security assessment methodologies, incorporating:
 
-## Manual code review and Vulnerability analysis
+Manual code review and Vulnerability analysis <br/>
 Automated vulnerability scanning using industry-leading tools <br/>
 Custom test development using Foundry <br/>
 Comprehensive risk assessment and classification
